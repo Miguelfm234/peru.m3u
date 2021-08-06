@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="| America TV (SD) | PER" tvg-logo="https://static.epg.best/pe/AmericaTelevision.pe.png" group-title="Peruanos ",| America TV (SD) | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/61331
+#EXTINF:-1 tvg-id="" tvg-name="| America  SD | PER" tvg-logo="https://static.epg.best/pe/AmericaTelevision.pe.png" group-title="Peruanos ",| America  SD | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/299
+#EXTINF:-1 tvg-id="" tvg-name="| America HD | PER" tvg-logo="https://static.epg.best/pe/AmericaTelevision.pe.png" group-title="Peruanos ",| America HD | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/831
+#EXTINF:-1 tvg-id="" tvg-name="| America  HD | PER" tvg-logo="https://static.epg.best/pe/AmericaTelevision.pe.png" group-title="Peruanos ",| America  HD | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/4909
+#EXTINF:-1 tvg-id="" tvg-name="| America TV HD (UNICO) | PER" tvg-logo="https://static.epg.best/pe/AmericaTelevision.pe.png" group-title="Peruanos ",| America TV HD (UNICO) | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/61332
+#EXTINF:-1 tvg-id="" tvg-name="| ATV FHD (UNICO) | PER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1024px-ATV_logo_2020.png" group-title="Peruanos ",| ATV FHD (UNICO) | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/61963
+#EXTINF:-1 tvg-id="" tvg-name="| ATV HD ( UNICO) | PER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1024px-ATV_logo_2020.png" group-title="Peruanos ",| ATV HD ( UNICO) | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/61964
+#EXTINF:-1 tvg-id="" tvg-name="| Canal N | PER" tvg-logo="https://storage.googleapis.com/ocpe-projects/apnoticias/logos/logo_canal_n.png" group-title="Peruanos ",| Canal N | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/57549
+#EXTINF:-1 tvg-id="" tvg-name="| Frecuencia Latina FHD (UNICO) | PER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Panamericana_HD.svg/1200px-Panamericana_HD.svg.png" group-title="Peruanos ",| Frecuencia Latina FHD (UNICO) | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/57555
+#EXTINF:-1 tvg-id="" tvg-name="| Panamericana HD (UNICO) | PER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Panamericana_HD.svg/1200px-Panamericana_HD.svg.png" group-title="Peruanos ",| Panamericana HD (UNICO) | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/57561
+#EXTINF:-1 tvg-id="" tvg-name="| Panamericana SD | PER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Panamericana_HD.svg/1200px-Panamericana_HD.svg.png" group-title="Peruanos ",| Panamericana SD | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/57560
+#EXTINF:-1 tvg-id="" tvg-name="| Peru Magico (UNICO) | PER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Peru_magico.png" group-title="Peruanos ",| Peru Magico (UNICO) | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/57563
+#EXTINF:-1 tvg-id="" tvg-name="| Peru Magico (MOVIL) | PER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Peru_magico.png" group-title="Peruanos ",| Peru Magico (MOVIL) | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/57562
+#EXTINF:-1 tvg-id="" tvg-name="| Rpp FHD (UNICO) | PER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Peruanos ",| Rpp FHD (UNICO) | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/57565
+#EXTINF:-1 tvg-id="" tvg-name="| Rpp (MOVIL) | PER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Peruanos ",| Rpp (MOVIL) | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/57564
+#EXTINF:-1 tvg-id="" tvg-name="| Rpp HD | PER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Peruanos ",| Rpp HD | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/57566
+#EXTINF:-1 tvg-id="" tvg-name="| Tv Peru SD | PER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png" group-title="Peruanos ",| Tv Peru SD | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/294
+#EXTINF:-1 tvg-id="" tvg-name="| TV Peru (UNICO) | PER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png" group-title="Peruanos ",| TV Peru (UNICO) | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/57568
+#EXTINF:-1 tvg-id="" tvg-name="| Tv Peru HD | PER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Peruanos ",| Tv Peru HD | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/87252
+#EXTINF:-1 tvg-id="" tvg-name="| GOL PERU FHD (EXCLUSIVO) | PER" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/golperu_logo_horizontal1-1.jpg" group-title="Peruanos ",| GOL PERU FHD (EXCLUSIVO) | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/80161
+#EXTINF:-1 tvg-id="" tvg-name="| Peru Magico SD | PER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Peru_magico.png" group-title="Peruanos ",| Peru Magico SD | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/291
+#EXTINF:-1 tvg-id="" tvg-name="| Panamericana SD | PER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Panamericana_HD.svg/1200px-Panamericana_HD.svg.png" group-title="Peruanos ",| Panamericana SD | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/302
+#EXTINF:-1 tvg-id="" tvg-name="| Movistar Deportes Peru HD | PER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/800px-Movistar_Deportes.svg.png" group-title="Peruanos ",| Movistar Deportes Peru HD | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/85559
+#EXTINF:-1 tvg-id="" tvg-name="| Exitosa HD | PER" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="Peruanos ",| Exitosa HD | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/87249
+#EXTINF:-1 tvg-id="" tvg-name="| Latina HD | PER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg" group-title="Peruanos ",| Latina HD | PER
+http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/87250
